@@ -36,7 +36,6 @@ import java.util.ArrayList;
 			}
 		ciyt.distanceadd(distance);
 		ciyt.getdistanceofcity(in.next(), in.next());
-		System.out.println("hihi");
 		in.close();
 	}
 }
